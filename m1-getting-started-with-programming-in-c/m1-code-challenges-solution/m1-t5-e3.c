@@ -1,9 +1,10 @@
     #include <stdio.h>
 
-    int main() {
+    int main() 
+{
 
-        puts("I am Rahul.");
-        puts("I am 20 years old.");
+        printf("I am Ravi kumar.");
+        Printf("\nI am 18 years old.");
 
         return 0;
     }
